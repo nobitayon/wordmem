@@ -1,2 +1,0 @@
-ALTER TABLE IF EXISTS words 
-DROP COLUMN email;
